@@ -6,7 +6,12 @@ Be as minimal as possible, but retain conveniences found in other editors. Do no
 
 # Usage
 ```
-eluna
+eluna <file>
+```
+
+## Example
+```
+eluna main.eo
 ```
 
 # Screenshots
