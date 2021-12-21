@@ -1,0 +1,8 @@
+use io.println;
+
+var a = 5;
+fn add(a, b) {
+    return a + b;
+}
+
+println('5 + 6 is ' + add(a, 6));
